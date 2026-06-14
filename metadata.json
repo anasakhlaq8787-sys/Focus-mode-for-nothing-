@@ -1,0 +1,6 @@
+{
+  "name": "Focus Lock",
+  "description": "A dark-themed minimalist feature-phone lockout interface that temporarily replaces distracting apps with plain clock, dialer, text inbox, and notes for extreme focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
